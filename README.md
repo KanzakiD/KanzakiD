@@ -1,7 +1,8 @@
 <div align='center'>
 
 [![bilibili]][bililink]
-[![]][]
+[![mail]][mailto]
+[![site]][sitelink]
 
 </div>
 
