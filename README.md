@@ -1,13 +1,15 @@
 <!-- Header -->
 <!-- Social Links with Fancy Icons -->
 <div align="center">
-  <a href="https://space.bilibili.com/24449466">
+  <a href="https://space.bilibili.com/24449466" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-%E7%A5%9E%E5%B4%8E%E5%8F%AF%E6%B1%97-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
   </a>
   <a href="mailto:kanzakid@qq.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-kanzakid@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Site-%E7%A5%9E%E5%B4%8E's%20Menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <a href="https://kanzaki.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Site-%E7%A5%9E%E5%B4%8E's%20Menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
 </div>
 </br>
 
