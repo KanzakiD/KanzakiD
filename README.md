@@ -28,11 +28,11 @@
 <!-- languages -->
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=kanzakid&theme=dracula&layout=compact&exclude_repo=nonebot-plugin-ai-topia
 
+<!--icon-->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
 
 <!-- Skills Section -->
 <h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  
   技术栈 | Tech Stack
 </h3>
 <div align="center">
