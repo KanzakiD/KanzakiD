@@ -22,6 +22,11 @@
   技术栈 | Tech Stack
 </h3>
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/docker-%2300BFFF?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/shell-%23696969?style=for-the-badge&logo=shell&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-%2300BFFF?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/k8s-%234169E1?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/redis-%23FF4500?style=for-the-badge&logo=redis&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/c-%236495ED?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/go-%231E90FF?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%23DAA520?style=for-the-badge&logo=python&logoColor=white">
 </div>
