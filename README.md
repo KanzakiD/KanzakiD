@@ -1,7 +1,9 @@
 <!-- Header -->
 
 <!-- 统计卡片 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanzakid)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanzakid)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- Social Links with Fancy Icons -->
 <div align="center">
