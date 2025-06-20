@@ -30,10 +30,6 @@
 
 </br>
 
-<!-- 统计卡片 -->
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanzakid&theme=dracula&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanzakid&theme=dracula&layout=compact&exclude_repo=nonebot-plugin-ai-topia)](https://github.com/anuraghazra/github-readme-stats) |
-| -- | -- |
-
 <!-- Skills Section -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
