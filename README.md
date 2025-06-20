@@ -1,10 +1,10 @@
 <!-- Header -->
 <!-- Social Links with Fancy Icons -->
 <div align="center">
-  <a href="https://b23.tv/ublcWCZ">
+  <a href="https://space.bilibili.com/24449466">
     <img src="https://img.shields.io/badge/Bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kanzakid@qq.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Coding...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
