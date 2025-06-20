@@ -1,10 +1,6 @@
 <div align='center'>
 
-[![genshin-image]][genshin-link]
-
-[![stats]][home]
-
-[![language]][home]
+[!bilibili][bililink]
 
 </div>
 
