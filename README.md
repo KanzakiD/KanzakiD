@@ -1,6 +1,6 @@
 <div align='center'>
 
-[!bilibili][bililink]
+[![bilibili]][bililink]
 
 </div>
 
