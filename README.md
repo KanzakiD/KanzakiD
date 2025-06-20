@@ -1,4 +1,11 @@
 <!-- Header -->
+<!-- Social Links with Fancy Icons -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+KanzakiD" alt="Typing SVG" />
+  <a href="https://b23.tv/ublcWCZ">
+    <img src="https://img.shields.io/badge/Bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Coding...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
