@@ -2,7 +2,8 @@
 
 <!-- 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanzakid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanzakid&theme=dracula&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanzakid&layout=compact&exclude_repo=nonebot-plugin-ai-topia)](https://github.com/anuraghazra/github-readme-stats) |
+| -- | -- |
 <!-- Social Links with Fancy Icons -->
 <div align="center">
   <a href="https://space.bilibili.com/24449466">
