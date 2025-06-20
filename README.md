@@ -1,3 +1,22 @@
+<div align='center'>
+
+[![genshin-image]][genshin-link]
+
+[![stats]][home]
+
+[![language]][home]
+
+</div>
+
+[home]: https://github.com/KanzakiD
+
+<!-- Social Links with Fancy Icons -->
+[bilibili]: https://img.shields.io/badge/Bilibili-%E7%A5%9E%E5%B4%8E%E5%8F%AF%E6%B1%97-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
+[bililink]: https://space.bilibili.com/24449466
+
+
+
+
 <!-- Header -->
 <!-- Social Links with Fancy Icons -->
 <div align="center">
