@@ -4,6 +4,9 @@
 [![mail]][mailto]
 [![site]][sitelink]
 
+[![stats]][home]
+[![langs]][home]
+
 </div>
 
 [home]: https://github.com/KanzakiD
@@ -11,25 +14,19 @@
 <!-- Social Links with Fancy Icons -->
 [bilibili]: https://img.shields.io/badge/Bilibili-%E7%A5%9E%E5%B4%8E%E5%8F%AF%E6%B1%97-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 [bililink]: https://space.bilibili.com/24449466
+
 [mail]: https://img.shields.io/badge/Email-kanzakid@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mailto]: mailto:kanzakid@qq.com
+
 [site]: https://img.shields.io/badge/Site-%E7%A5%9E%E5%B4%8E's%20Menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [sitelink]: https://kanzaki.cn
 
+<!-- stats -->
+[stats]: https://github-readme-stats.vercel.app/api?username=kanzakid&theme=dracula&show_icons=true
 
-<!-- Header -->
-<!-- Social Links with Fancy Icons -->
-<div align="center">
-  <a href="https://space.bilibili.com/24449466">
-    <img src="https://img.shields.io/badge/Bilibili-%E7%A5%9E%E5%B4%8E%E5%8F%AF%E6%B1%97-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
-  </a>
-  <a href="mailto:kanzakid@qq.com">
-    <img src="https://img.shields.io/badge/Email-kanzakid@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kanzaki.cn">
-    <img src="https://img.shields.io/badge/Site-%E7%A5%9E%E5%B4%8E's%20Menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-</div>
+<!-- languages -->
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=kanzakid&theme=dracula&layout=compact&exclude_repo=nonebot-plugin-ai-topia
+
 </br>
 
 <!-- 统计卡片 -->
