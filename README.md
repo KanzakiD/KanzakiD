@@ -1,4 +1,8 @@
 <!-- Header -->
+
+<!-- 统计卡片 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanzakid)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Social Links with Fancy Icons -->
 <div align="center">
   <a href="https://space.bilibili.com/24449466">
