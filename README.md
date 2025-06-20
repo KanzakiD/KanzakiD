@@ -7,7 +7,7 @@
   <a href="mailto:kanzakid@qq.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Coding...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Site-神崎's menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 </br>
 
