@@ -12,7 +12,7 @@
 [bilibili]: https://img.shields.io/badge/Bilibili-%E7%A5%9E%E5%B4%8E%E5%8F%AF%E6%B1%97-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 [bililink]: https://space.bilibili.com/24449466
 [mail]: https://img.shields.io/badge/Email-kanzakid@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[maillto]: mailto:kanzakid@qq.com
+[mailto]: mailto:kanzakid@qq.com
 [site]: https://img.shields.io/badge/Site-%E7%A5%9E%E5%B4%8E's%20Menu-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [sitelink]: https://kanzaki.cn
 
